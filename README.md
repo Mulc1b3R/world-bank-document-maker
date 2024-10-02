@@ -19,6 +19,8 @@ entery country code
 * Generates metadata for indicator and saves to html file below the plotted chart.
 * Generates year and value data below metadata.
 
+  ![Alt Text](meta.png)
+
 ```
 search.py
 ```
