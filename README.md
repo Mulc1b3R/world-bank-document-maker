@@ -1,12 +1,10 @@
 # world-bank-document-maker
+------------------------------------------------------------------------------------------------------
 Creates documents for all data bank indicators for all countries .  Total possible documents 443,424
 ----------------------------------------------------------------------------------------------------------
-
-#World Bank document maker
------------------------------------------------------------------------------
 Plots a chart using any of the 1488 data bank indicators for any country.
 -----------------------------------------------------------------------------
-screenshot.png
+![Alt Text](doc.png)
 -----------------------------------------------------------------------------
 ```
 python doc-api.py
