@@ -26,6 +26,10 @@ search.py
 ```
 creates 100 links related to the subject , input search query and country code. Saves to same folder as document as 'links.html'
 the file is auto linked to the created document as a supplimentary file , click ' see all links' .
+
+
+![Alt Text](links.png)
+
 ```
 zipper.py
 ```
