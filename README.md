@@ -45,11 +45,12 @@ Zips the forlder containing document files.
 ```
 mail.py
 ```
+
 emails the folder as an attachment.
 --------------------------------------------------------------------------------------------------
-* Documents are saved to the 'Docs' folder in'contry code folder
+* Documents are saved to the 'Docs' folder in'country code' folder
 * An assortment of tools can be found in the 'tools' folder.
-* Information is placed in the 'info' folder for programmatic tasks.
+* Information is placed in the 'info' folder for programatic tasks.
 --------------------------------------------------------------------------------------------------
 ```
 Created by 'Psico Communications' , all rights and permissions granted , dist under apache 2,0 .
