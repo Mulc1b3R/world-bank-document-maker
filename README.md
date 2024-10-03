@@ -47,6 +47,12 @@ mail.py
 ```
 
 emails the folder as an attachment.
+
+--------------------------------------------------------------------------------------------------
+![Alt Text](event.png)
+
+
+    Events can be listed along side the year in question to elucidate data points.
 --------------------------------------------------------------------------------------------------
 * Documents are saved to the 'Docs' folder in'country code' folder
 * An assortment of tools can be found in the 'tools' folder.
