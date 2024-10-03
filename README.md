@@ -1,6 +1,6 @@
 # world-bank-document-maker
 ------------------------------------------------------------------------------------------------------
-Creates documents for all data bank indicators for all countries .  Total possible documents 443,424
+Creates documents for all data bank indicators for all countries .  Total possible documents  +440,000
 ----------------------------------------------------------------------------------------------------------
 
 ![Alt Text](doc.png)
