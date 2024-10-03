@@ -5,6 +5,9 @@ Creates documents for all data bank indicators for all countries .  Total possib
 
 ![Alt Text](doc.png)
 -----------------------------------------------------------------------------
+
+*Place json files from metadata2 folder in metadata folder (github truncates folders to a maximum of 1000 files)
+
 ```
 python doc-api.py
 ```
