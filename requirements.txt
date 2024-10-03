@@ -1,0 +1,6 @@
+matplotlib
+requests
+pandas
+google
+fake-useragent
+beautifulsoup4
