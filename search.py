@@ -11,7 +11,7 @@ country_code = input("Enter the country code: ")
 user_agent = UserAgent().chrome
 
 # Perform Google search
-search_results = googlesearch.search(search_query, num=10, stop=10, user_agent=user_agent)
+search_results = googlesearch.search(search_query, num=100, stop=100, user_agent=user_agent)
 
 # Set the file path for saving the results
 file_path = f"Docs/{country_code}/links.html"
